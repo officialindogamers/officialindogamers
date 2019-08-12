@@ -16,5 +16,5 @@
 - [Instagram](https://www.instagram.com/officialindogamers?r=nametag)
 - [Github](https://github.com/officialindogamers)
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/693843fef1e5475498fb45d5205fb5d3)](https://app.codacy.com/app/Monkeyyy11/LenoxBot?utm_source=github.com&utm_medium=referral&utm_content=LenoxBot/LenoxBot&utm_campaign=Badge_Grade_Settings)
-# Created By Bakri
+[![ESPORTS](https://api.codacy.com/project/badge/Grade/693843fef1e5475498fb45d5205fb5d3)](https://app.codacy.com/app/Monkeyyy11/LenoxBot?utm_source=github.com&utm_medium=referral&utm_content=LenoxBot/LenoxBot&utm_campaign=Badge_Grade_Settings)
+ ```Created By Bakri```
