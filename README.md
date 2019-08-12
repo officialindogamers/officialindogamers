@@ -4,7 +4,7 @@
 
 <p align="center"><img src="https://cdn.discordapp.com/attachments/587036011595431970/604326160494624778/20190726_225614.png" /> <a href="https://discord.gg/ZNzjgxA"> </br> <img src="https://img.shields.io/badge/Discord-Support-%wBRwKRn.svg?logo=discord&amp;style=for-the-badge&amp;logoWidth=20" /> </a> <a href="https://cdn.discordapp.com/attachments/587036011595431970/604326160494624778/20190726_225614.png"> <img src="https://img.shields.io/appveyor/ci/gruntjs/grunt.svg?label=Appveyor&amp;logo=appveyor&amp;style=for-the-badge&amp;logoWidth=20" /> </a> <a href="https://cdn.discordapp.com/attachments/587036011595431970/604326160494624778/20190726_225614.png"> <img src="https://cdn.discordapp.com/attachments/587036011595431970/604326160494624778/20190726_225614.png.svg?label=Downloads&amp;logo=nuget&amp;style=for-the-badge&amp;logoWidth=20" /> </a></p>
 
-![GOOD LUCK](https://drive.google.com/file/d/16fYDuzlRbCA8cVrUUrzd2paeKUfBh4T5/view?usp=drivesdk)
+![OFFICIAL INDO GAMERS ](https://cdn.discordapp.com/attachments/587036011595431970/610415682722594816/1543566905434.jpg)
 [![Discord Bots](https://discordbots.org/api/widget/status/354712333853130752.svg)](https://discordbots.org/bot/583945825516912640)
 [[Discord](https://discordapp.com/api/guilds/465960058132627467/widget.png)]
 # Sosial And Bot
