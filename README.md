@@ -1,6 +1,6 @@
 # Welcome To INDO GAMERS
 # Komunitas Gamers INDONESIA
-
+```INDO GAMERS Adalah Komunitas Bukan Cuma Game Tapi disini Banyak Ilmu Yang Di Dapat```
 
 ![GOOD LUCK](https://cdn.discordapp.com/attachments/604717878826106926/604717921494761472/20190728_005202.png)
 
@@ -12,3 +12,6 @@
 - [DISCORD](https://invite.gg/ID)
 - [Instagram](https://www.instagram.com/officialindogamers?r=nametag)
 - [Github](https://github.com/officialindogamers)
+
+
+# Created By Bakri
